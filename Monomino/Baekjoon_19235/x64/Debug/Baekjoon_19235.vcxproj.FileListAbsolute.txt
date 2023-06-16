@@ -1,0 +1,2 @@
+D:\6_poro_assignment\code_test\Baekjoon_19235\x64\Debug\Baekjoon_19235.exe
+D:\6_assignment\code_test\Monomino\Baekjoon_19235\x64\Debug\Baekjoon_19235.exe
